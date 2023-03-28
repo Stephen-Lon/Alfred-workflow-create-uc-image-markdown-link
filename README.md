@@ -1,4 +1,4 @@
-# Alfred-workflow-get-uc-image-markdown-link
+# Alfred-workflow-create-uc-image-markdown-link
 Create an image link to include in workflow User Configuration
 
 # Introduction
